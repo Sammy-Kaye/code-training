@@ -1,0 +1,14 @@
+D:\Code Training\Week 1\day-1-variables\bin\Debug\net10.0\day-1-variables.exe
+D:\Code Training\Week 1\day-1-variables\bin\Debug\net10.0\day-1-variables.deps.json
+D:\Code Training\Week 1\day-1-variables\bin\Debug\net10.0\day-1-variables.runtimeconfig.json
+D:\Code Training\Week 1\day-1-variables\bin\Debug\net10.0\day-1-variables.dll
+D:\Code Training\Week 1\day-1-variables\bin\Debug\net10.0\day-1-variables.pdb
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\day-1-variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\day-1-variables.AssemblyInfoInputs.cache
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\day-1-variables.AssemblyInfo.cs
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\day-1-variables.csproj.CoreCompileInputs.cache
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\day-1-variables.dll
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\refint\day-1-variables.dll
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\day-1-variables.pdb
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\day-1-variables.genruntimeconfig.cache
+D:\Code Training\Week 1\day-1-variables\obj\Debug\net10.0\ref\day-1-variables.dll
