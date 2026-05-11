@@ -1,4 +1,6 @@
-﻿for (int i = 10; i >= 0; i = i - 1)
+﻿int total = 1000;
+for (int i = 10; i > 0; i = i - 1)
 {
-    Console.WriteLine(i);
+    total = total - 7;
+    Console.WriteLine(total);
 }
